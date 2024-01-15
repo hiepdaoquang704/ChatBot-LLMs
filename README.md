@@ -11,5 +11,5 @@ LLama 2- instruct:togethercomputer/Llama-2-7B-32K-Instruct
 
 Model fine-tuned:
 
-https://huggingface.co/hiepdaoquang704/finetune-LLamma2-instruct
+https://huggingface.co/hiepdaoquang704/finetune-LLamma2-instruct //
 https://huggingface.co/hiepdaoquang704/finetune-LLamma2-instruct
