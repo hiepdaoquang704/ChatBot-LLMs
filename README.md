@@ -1,8 +1,8 @@
 # ChatBot-LLMs
 
-Here is the code part of fine-tune model LLMs using QLoRA(Qa-lora Quantization-aware Low-rank Adaptation) of large language models
+Here is the code fine-tuning model LLMs using QLoRA(Qa-lora Quantization-aware Low-rank Adaptation) of large language models
  
-Hard ware:   
+Hardware:   
 GPU: T4 ,RAM: 14.7 Gb  
 
 Datasets:  
